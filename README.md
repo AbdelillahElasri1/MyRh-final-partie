@@ -1,8 +1,4 @@
 # MYRH Plateforme de Recrutement
-
-## Description
-Dans le Cadre de son développement, le cabinet MyRH souhaite simplifier la recherche d'emploi pour toutes les marocaines et marocains, pour cela il vous demande de créer une application web qui sera utilisée par les recruteurs et les chercheurs d'emploi.
-
 ### Prérequis
 
 - Docker desktop
@@ -28,5 +24,3 @@ docker-compose up -d
 
 7 - you can use postman to test the api
 
-## Contributors 
-- [Elmahdi elhjoujy]()
